@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-<!--
-**third-stone/third-stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I'm an applied physics PhD student currently working nanophotonics design/fabrication for quantum information experiment. 
 
 I'm always looking for new coding projects, some past side-projects include using streamlit + asyncio to create a labrad monitoring system as well as openCV to analyze SEM images. 
 
+
+<!--
+**third-stone/third-stone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ** - 🔭 I’m currently working on ...
 ** - 🌱 I’m currently learning ...
